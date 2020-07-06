@@ -1,0 +1,30 @@
+{
+  "name": "spritevg",
+  "version": "0.0.1",
+  "description": "Create sprites out of a bunch of SVG files.",
+  "main": "./lib/index.js",
+  "bin": {
+    "spritevg": "./bin/spritevg.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "spritevg",
+    "sprite",
+    "svg",
+    "image"
+  ],
+  "author": {
+    "name": "Davis John",
+    "email": "me@davisjohn.net"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsdom": "^16.2.2",
+    "lodash.camelcase": "^4.3.0",
+    "path": "^0.12.7"
+  }
+}
