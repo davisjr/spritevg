@@ -1,3 +1,2 @@
-spritevg -
-svgo sprite.svg --disable={mergePaths,cleanupIDs}
-
+spritevg input/-
+svgo output/sprite.svg --disable={mergePaths,cleanupIDs}
