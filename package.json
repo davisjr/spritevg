@@ -30,7 +30,7 @@
     "@svgr/plugin-prettier": "^5.4.0",
     "@svgr/plugin-svgo": "^5.4.0",
     "fs": "0.0.1-security",
-    "jsdom": "^16.4.0",
+    "jsdom": "^16.5.0",
     "lodash.camelcase": "^4.3.0",
     "lodash.upperfirst": "^4.3.1",
     "path": "^0.12.7",
